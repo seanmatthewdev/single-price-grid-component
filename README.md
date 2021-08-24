@@ -1,7 +1,7 @@
-# Frontend Mentor - Single price grid component
+View live here
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+https://reverent-shirley-4dcdb0.netlify.app
 
-View it live here
+Travesy media tutorial
 
-https://sharp-albattani-504bc0.netlify.app
+https://www.youtube.com/watch?v=uKgn-To1C4Q&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=7
